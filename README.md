@@ -1,5 +1,5 @@
 - 👋 Hey, I’m Kauany Lima!
-- I’m currently learning HTML and CSS! :)
+- I’m currently learning JavaScript! :)
 
 <!---
 KauanyLimaa/KauanyLimaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
